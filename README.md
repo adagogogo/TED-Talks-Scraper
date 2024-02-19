@@ -22,9 +22,9 @@ pip install requests beautifulsoup4 tqdm
 
 1. Run `1-ted_talks_fetcher.py` to fetch the initial data set of TED Talks:
 
-   ```bash
-   python 1-ted_talks_fetcher.py
-   ```
+```bash
+python 1-ted_talks_fetcher.py
+```
 
 This will create a file named 1-all_urls.csv containing the basic information.
 
